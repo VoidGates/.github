@@ -15,14 +15,14 @@
 
 A **VoidGate** é uma organização dedicada a pesquisar e construir soluções de segurança para sistemas de Inteligência Artificial.
 
-Modelos de linguagem e agentes autônomos trouxeram novos riscos: *prompt injection*, vazamento de dados sensíveis, envenenamento de contexto e manipulação de agentes. Nosso propósito é tornar o uso de IA mais seguro, confiável e governável — para empresas, desenvolvedores e pesquisadores.
+Modelos de linguagem e agentes autônomos trouxeram novos riscos: *prompt injection*, vazamento de dados sensíveis, envenenamento de contexto e manipulação de agentes. Nosso propósito é tornar o uso de IA mais seguro, confiável e governável - para empresas, desenvolvedores e pesquisadores.
 
 ### No que acreditamos
 
-- **Proteção desde a origem** — ameaças a IA devem ser neutralizadas antes de chegarem ao modelo.
-- **Privacidade por padrão** — dados sensíveis não deveriam sair do seu controle sem necessidade.
-- **Confiança verificável** — tanto o que entra quanto o que sai de uma IA precisa ser validado.
-- **Abertura** — segurança se constrói em comunidade, com padrões abertos e conhecimento compartilhado.
+- **Proteção desde a origem** - ameaças a IA devem ser neutralizadas antes de chegarem ao modelo.
+- **Privacidade por padrão** - dados sensíveis não deveriam sair do seu controle sem necessidade.
+- **Confiança verificável** - tanto o que entra quanto o que sai de uma IA precisa ser validado.
+- **Abertura** - segurança se constrói em comunidade, com padrões abertos e conhecimento compartilhado.
 
 ### Participe
 
